@@ -1,0 +1,115 @@
+.home-page .home-page-heading {
+  font-family: "Rubik", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+.home-page .home-page-heading {
+  font-family: "Rubik", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+.home-page .form-addTask button.add-task-btn {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 20px 0;
+  background: #125ffa;
+}
+
+.home-page .todoLists-box {
+  border-radius: 15px;
+  border: 2px solid #ddd;
+  padding: 30px;
+  margin: 20px 0;
+  box-shadow: -2px 2px 13px -1px rgb(18 95 250);
+}
+.home-page .todoLists-box .filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.home-page .todoLists-box .filter .tasks-view button {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  /* margin: 20px 0; */
+  margin: 20px 10px 20px 0;
+  background: #125ffa;
+}
+.home-page .singleTask {
+  border-bottom: 2px solid #ddd;
+  padding: 20px 0;
+}
+.home-page .singleTask .tasks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 0 20px;
+}
+.home-page .singleTask .tasks input[type="text"] {
+  border-radius: 14px;
+  /* width: 100%; */
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 16px;
+}
+.home-page .singleTask .tasks strike {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 0 20px;
+}
+.home-page .singleTask .tasks p {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  word-break: break-all;
+  width: 237px;
+  margin: 0 30px;
+}
+.home-page .singleTask .tasks .edit {
+  margin: 0 0 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-page .singleTask .tasks .edit button {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 0 0 5px;
+}
+.home-page .singleTask .tasks .edit button:first-of-type {
+  background: #38dda0;
+}
+.home-page .singleTask .tasks .edit button:last-of-type {
+  background: #f1611d;
+}
+.home-page .todoLists-box .filter {
+  text-align: right;
+}
+.home-page .todoLists-box .filter #filter {
+  border-radius: 14px;
+  /* width: 100%; */
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.home-page .form-addTask .search-add input {
+  border-radius: 14px;
+  /* width: 100%; */
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 16px;
+}

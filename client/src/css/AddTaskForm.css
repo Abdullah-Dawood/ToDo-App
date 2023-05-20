@@ -1,0 +1,59 @@
+.form-addTask .modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.form-addTask .modal-header h5 {
+  font-family: "Rubik", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 12px;
+}
+.form-addTask .modal-header button {
+  background: #125ffa;
+}
+.form-addTask .modal-body {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+.form-addTask .modal-body div {
+  margin: 30px 0;
+}
+.form-addTask .modal-body label {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  display: block;
+  text-align: start;
+  margin: 0 0 8px 4px;
+}
+.form-addTask .modal-body input {
+  display: block;
+  border-radius: 14px;
+  width: 100%;
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.form-addTask .modal-body select {
+  display: block;
+  border-radius: 14px;
+  width: 100%;
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.form-addTask .modal-footer button {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background: #125ffa;
+}

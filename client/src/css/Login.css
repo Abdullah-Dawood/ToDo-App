@@ -1,0 +1,38 @@
+.login-signup-form {
+  border-radius: 15px;
+  border: 2px solid #ddd;
+  padding: 100px;
+  margin: 20px 0;
+  box-shadow: -2px 2px 13px -1px rgb(18 95 250);
+}
+.login-signup-form form label {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  display: block;
+  text-align: start;
+  margin: 0 0 8px 4px;
+}
+.login-signup-form form input {
+  display: block;
+  border-radius: 14px;
+  width: 100%;
+  padding: 8px 20px;
+  color: #000d;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 15px 0;
+}
+.login-signup-form form button {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  /* margin: 20px 0; */
+  margin: 20px 10px 20px 0;
+  border-radius: 15px;
+  background: #125ffa;
+  width: 100%;
+}
